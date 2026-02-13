@@ -1,5 +1,4 @@
 import { Check, CircleMinus } from "lucide-react"
-import { useCallback } from "react"
 import styled from "styled-components"
 import { useTodoDispatch } from "../Todo/TodoProvider"
 
