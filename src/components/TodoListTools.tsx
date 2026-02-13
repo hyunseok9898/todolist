@@ -1,5 +1,4 @@
 import { CircleCheckBig, Trash2, Circle } from 'lucide-react'
-import { useCallback } from 'react'
 import styled from 'styled-components'
 import { useTodoDispatch, useTodoState } from '../Todo/TodoProvider'
 
